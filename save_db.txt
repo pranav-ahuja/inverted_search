@@ -1,0 +1,12 @@
+The word [are] is present in 1 file/s: In the file file1.txt 1 times. 
+The word [am] is present in 2 file/s: In the file file2.txt 2 times. In the file file3.txt 1 times. 
+The word [Ahuja.] is present in 1 file/s: In the file file2.txt 1 times. 
+The word [a] is present in 1 file/s: In the file file3.txt 1 times. 
+The word [developer.] is present in 1 file/s: In the file file3.txt 1 times. 
+The word [Hi,] is present in 2 file/s: In the file file1.txt 1 times. In the file file2.txt 1 times. 
+The word [How] is present in 1 file/s: In the file file1.txt 1 times. 
+The word [I] is present in 2 file/s: In the file file2.txt 2 times. In the file file3.txt 1 times. 
+The word [Pranav] is present in 1 file/s: In the file file2.txt 1 times. 
+The word [software] is present in 1 file/s: In the file file3.txt 1 times. 
+The word [you?] is present in 1 file/s: In the file file1.txt 1 times. 
+The word [25] is present in 1 file/s: In the file file2.txt 1 times. 
